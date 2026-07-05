@@ -19,3 +19,4 @@ BEGIN darktide-dns-fix
 13.235.131.156 echo-prod-aws-ap-south-1.atoma.cloud
 
 The game now loads in 30 seconds instead of 10 minutes.
+Run this script each time you play so the addresses are updated.
